@@ -1,5 +1,5 @@
 # typescript-challenge
-
+六角學院 2023 TypeScript 預習課程
 ## 開發環境
 
 1. Node：v18.16.0
